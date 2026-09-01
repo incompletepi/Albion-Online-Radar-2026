@@ -244,4 +244,3 @@ Albion Online names and trademarks belong to their respective owners.
 **Albion Online Radar** • Albion Player Radar • Albion Resource Radar • Albion Gathering • Albion Mists • Albion Roads of Avalon • Albion Outlands • Albion Black Zone • Albion Map Overlay • Albion Resources • Sandbox MMORPG • Windows Game Utility
 
 </details>
-                                                                                                    
